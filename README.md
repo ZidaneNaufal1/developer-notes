@@ -1,14 +1,14 @@
 # 📚 Developer Notes
 
-> Catatan pembelajaran dan dokumentasi perjalanan saya dalam mempelajari software development.
+> A personal learning repository for documenting my journey in software development.
 
-Repository ini digunakan untuk menyimpan rangkuman materi, contoh kode, eksperimen kecil, serta hal-hal yang saya pelajari selama mengembangkan kemampuan di bidang Teknik Informatika.
+This repository contains notes, code snippets, small experiments, and lessons learned while developing my skills in programming and software engineering.
 
 ---
 
-## 🎯 Fokus Pembelajaran
+## 🎯 Learning Focus
 
-Saat ini saya berfokus pada beberapa bidang berikut:
+My current learning focus includes:
 
 - 💻 Programming & Software Development
 - 🎮 Unity & Game Development
@@ -21,24 +21,24 @@ Saat ini saya berfokus pada beberapa bidang berikut:
 
 ---
 
-## 📂 Struktur Catatan
+## 📂 Documentation Structure
 
-| Topik | Isi |
+| Topic | Contents |
 |---|---|
-| `Git-GitHub` | Git, GitHub, branching, commit, dan workflow |
-| `Python` | Dasar Python, OOP, automation, dan project kecil |
-| `CSharp` | Dasar C#, OOP, dan programming |
-| `Unity` | Game development dan sistem Unity |
-| `Machine-Learning` | Preprocessing, training, evaluasi, dan eksperimen ML |
-| `Database` | SQL, MySQL, query, dan database design |
-| `Web-Development` | HTML, CSS, JavaScript, dan web development |
-| `Algorithms` | Algoritma dan struktur data |
+| `Git-GitHub` | Git, GitHub, commits, branches, and workflows |
+| `Python` | Python fundamentals, OOP, automation, and small projects |
+| `CSharp` | C# fundamentals, OOP, and programming concepts |
+| `Unity` | Unity game development and game systems |
+| `Machine-Learning` | Data preprocessing, model training, evaluation, and experiments |
+| `Database` | SQL, MySQL, queries, and database design |
+| `Web-Development` | HTML, CSS, JavaScript, and web development |
+| `Algorithms` | Algorithms and data structures |
 
 ---
 
-## 📈 Progress
+## 📈 Learning Progress
 
-- [x] Konfigurasi dasar Git & GitHub
+- [x] Git & GitHub Fundamentals
 - [ ] Python
 - [ ] C#
 - [ ] Unity Game Development
@@ -53,14 +53,16 @@ Saat ini saya berfokus pada beberapa bidang berikut:
 
 ### September 2026
 
-- Repository `developer-notes` mulai dikembangkan sebagai learning hub.
-- Mulai mendokumentasikan pembelajaran Git & GitHub.
-- Menyusun struktur dokumentasi untuk pembelajaran programming dan software development.
+- Started developing `developer-notes` as a personal learning hub.
+- Began documenting Git & GitHub fundamentals.
+- Created a documentation structure for programming and software development topics.
 
 ---
 
-## 🚀 Tujuan Repository
+## 🚀 Repository Goals
 
-Repository ini akan terus diperbarui seiring bertambahnya pengetahuan dan pengalaman saya dalam software development.
+This repository will continue to grow as I learn new technologies, build projects, and gain more experience in software development.
+
+The goal is to not only learn, but also document and reflect on the development process.
 
 > **Learn → Build → Document → Improve**
