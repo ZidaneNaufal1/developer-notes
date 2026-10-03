@@ -1,68 +1,64 @@
 # 📚 Developer Notes
 
-> A personal learning repository for documenting my journey in software development.
+> A personal learning repository for documenting software development concepts, experiments, and lessons learned.
 
-This repository contains notes, code snippets, small experiments, and lessons learned while developing my skills in programming and software engineering.
+This repository is my technical notebook. I use it to turn things I learn into concise references I can revisit while building projects.
 
 ---
 
-## 🎯 Learning Focus
+## 🎯 Current Focus
 
-My current learning focus includes:
-
-- 💻 Programming & Software Development
-- 🎮 Unity & Game Development
-- 🐍 Python
-- 🤖 Machine Learning
-- 🌐 Web Development
-- 🗄️ Database & SQL
 - 🔧 Git & GitHub
+- 🐍 Python
+- 🎮 Unity & C#
+- 🤖 Machine Learning
+- 🗄️ Database & SQL
+- 🌐 Web Development
 - 🧠 Algorithms & Data Structures
 
 ---
 
-## 📂 Documentation Structure
+## 📂 Repository Structure
 
-| Topic | Contents |
-|---|---|
-| `Git-GitHub` | Git, GitHub, commits, branches, and workflows |
-| `Python` | Python fundamentals, OOP, automation, and small projects |
-| `CSharp` | C# fundamentals, OOP, and programming concepts |
-| `Unity` | Unity game development and game systems |
-| `Machine-Learning` | Data preprocessing, model training, evaluation, and experiments |
-| `Database` | SQL, MySQL, queries, and database design |
-| `Web-Development` | HTML, CSS, JavaScript, and web development |
-| `Algorithms` | Algorithms and data structures |
+```text
+developer-notes/
+├── Git-GitHub/
+│   ├── git-basics.md
+│   └── git-branching.md
+└── README.md
+```
+
+More sections will be added as I actually study and document them.
 
 ---
 
-## 📈 Learning Progress
+## ✅ Learning Progress
 
-- [x] Git & GitHub Fundamentals
-- [ ] Python
-- [ ] C#
-- [ ] Unity Game Development
-- [ ] Machine Learning
-- [ ] Database & SQL
-- [ ] Web Development
-- [ ] Algorithms & Data Structures
+| Topic | Status | Notes |
+|---|---|---|
+| Git fundamentals | ✅ Started | Basic workflow and concepts documented |
+| Git branching | ✅ Started | Branch concepts and basic commands |
+| Python | ⏳ Planned | Fundamentals, OOP, automation |
+| C# | ⏳ Planned | Fundamentals and OOP |
+| Unity | ⏳ Planned | Game systems and development notes |
+| Machine Learning | ⏳ Planned | Preprocessing, training, evaluation |
+| Database & SQL | ⏳ Planned | Queries, schema design, optimization |
+| Web Development | ⏳ Planned | HTML, CSS, JavaScript |
+| Algorithms | ⏳ Planned | Data structures and problem solving |
 
 ---
 
 ## 📝 Learning Log
 
 ### September 2026
-
-- Started developing `developer-notes` as a personal learning hub.
-- Began documenting Git & GitHub fundamentals.
-- Created a documentation structure for programming and software development topics.
+- Started `developer-notes` as a personal learning hub.
+- Documented Git and GitHub fundamentals.
+- Added introductory Git branching notes.
 
 ---
 
-## 🚀 Repository Goals
+## 🧭 Repository Principle
 
-This repository will continue to grow as I learn new technologies, build projects, and gain more experience in software development.
+I prefer short, practical notes that explain **what a concept is, why it matters, and how I use it**.
 
-The goal is to not only learn, but also document and reflect on the development process.
-
-> **Learn → Build → Document → Improve**
+> **Learn → Practice → Document → Improve**
