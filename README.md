@@ -22,13 +22,15 @@ This repository is my technical notebook. I use it to turn things I learn into c
 
 ```text
 developer-notes/
+├── Backend/
+│   └── job-queue-simulator.md
 ├── Git-GitHub/
 │   ├── git-basics.md
 │   └── git-branching.md
 └── README.md
 ```
 
-More sections will be added as I actually study and document them.
+The [queue simulator guide](Backend/job-queue-simulator.md) is an AI-assisted study resource for review; it does not imply the topic has already been mastered. More sections will be added as learning continues.
 
 ---
 
